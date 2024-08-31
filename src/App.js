@@ -5,7 +5,7 @@ import './App.css';
 const App = () => {
     return (
         <div className="App">
-            <h1>翻牌小遊戲</h1>
+            <h1>翻翻樂</h1>
             <MemoryGame /> {/* 渲染 MemoryGame 組件 */}
         </div>
     );
